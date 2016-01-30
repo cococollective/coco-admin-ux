@@ -1,0 +1,10 @@
+name = "Coco Admin UX"
+description = "Provides backend UX improvements."
+package = "Other"
+version = "7.x-0.x-dev"
+core = "7.x"
+
+dependencies[]="betterlogin"
+dependencies[]="coco_ux"
+dependencies[]="features"
+dependencies[]="navbar"
