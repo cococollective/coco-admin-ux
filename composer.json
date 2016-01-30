@@ -1,5 +1,5 @@
 {
-  "name": "cococollective/coco-admin_ux",
+  "name": "cococollective/coco-admin-ux",
   "description": "Drupal module: Provides backend UX improvements.",
   "type": "drupal-module",
   "license": "GPL-2.0+",
